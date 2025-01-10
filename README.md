@@ -14,7 +14,7 @@ Hi there! 👋 I’m Aryan Sharma, a passionate and driven technology enthusiast
   - [**VITsta360**](https://vitsta360.techynar.com)
   - [**Vslot**](https://vslot.techynar.com)
   - [**ingreSnap**](https://ingresnap.techynar.com)
-  - [**iMatime**](https://imatime.techynar.com)
+  - [**imaTime**](https://imatime.techynar.com)
   - [**FavaPay**](https://favapay.techynar.com)
 
 ---
