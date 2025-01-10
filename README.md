@@ -19,7 +19,7 @@ Hi there! 👋 I’m Aryan Sharma, a passionate and driven technology enthusiast
 
 ---
 
-## 🌟 The Story Behind **techynAR**
+## 🌟 The Story Behind [**techynAR**](https://techynar.com)
 
 The name **techynAR** holds a special place in my heart. It is derived from **"tech"** and **"Aryan"**, reflecting two integral aspects of who I am. Technology has been a part of my life since childhood—always curious to know what’s behind the scenes, how things work, and how they can be improved. This curiosity and passion have driven me to explore, learn, and innovate, leading to the creation of **techynAR**. Through this platform, I aim to simplify technology and empower individuals with knowledge and tools to thrive in the tech-driven world.
 
