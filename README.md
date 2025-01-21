@@ -13,7 +13,7 @@ Hi there! 👋 I’m Aryan Sharma, a passionate and driven technology enthusiast
 - 📱 **Innovative Creator**: Developing projects like:
   - [**VITsta360**](https://vitsta360.techynar.com)
   - [**Vslot**](https://vslot.techynar.com)
-  - [**ingreSnap**](https://ingresnap.techynar.com)
+  - [**ingreSnap**](https://ingresnap.vercel.app)
   - [**imaTime**](https://imatime.techynar.com)
   - [**FavaPay**](https://favapay.techynar.com)
 
