@@ -29,9 +29,9 @@ The name **techynAR** holds a special place in my heart. It is derived from **"t
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=techynar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/techynar)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=techynar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&timestamp=1718133000)](https://github.com/techynar)
 
-[![GitHub Commits Graph](https://ghchart.rshah.org/techynar)](https://github.com/techynar)
+[![GitHub Commits Graph](https://ghchart.rshah.org/techynar?t=1718133000)](https://github.com/techynar)
 
 </div>
 
